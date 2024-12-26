@@ -1,5 +1,5 @@
 #Submit multiple files to XSEDE
-#Author: Gaurav MOghe
+
 import sys, os
 
 def help1():
